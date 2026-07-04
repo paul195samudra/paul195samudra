@@ -5,8 +5,11 @@ Software Engineer • AI Enthusiast
 </h3>
 
 <p align="center">
-I enjoy building scalable backend systems, AI-powered applications, and solving real-world problems through clean and efficient code.
-Currently focusing on Backend Development, Artificial Intelligence, Machine Learning, and Cloud Computing.
+I'm a Computer Science graduate from Daffodil International University, specializing in software engineering, AI/ML, and data systems. I'm currently interning as a Machine Learning Engineer at FlyRank AI.
+
+I work across the stack — from full-stack PHP/MySQL platforms, to Python tooling for healthcare workflows, to NLP-driven products. I believe in building things that are practical, smart, and useful.
+
+Currently open to software engineering, ML engineering, and project coordination roles. Based in Dhaka — available remotely.
 </p>
 
 ---
