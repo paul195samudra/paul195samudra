@@ -53,7 +53,7 @@ Git • GitHub • Docker • Postman • VS Code • Linux • Firebase
 
 📧 samudrapaul80455@gmail.com
 
-🔗 LinkedIn: https://linkedin.com/in/(https://www.linkedin.com/in/maloy-kishor-paul-a32a20235)
+🔗 LinkedIn: [https://linkedin.com/in/(https://www.linkedin.com/in/maloy-kishor-paul-a32a20235)](https://www.linkedin.com/in/maloy-kishor-paul-a32a20235/)
 
 🌐 Portfolio: https://(https://maloykishorpaul-portfolio.lovable.app/)
 
