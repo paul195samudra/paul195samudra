@@ -38,7 +38,7 @@ Git • GitHub • Docker • Postman • VS Code • Linux • Firebase
 
 ## 🎯 Currently
 
-- 💼Machine Learning Engineer Intern at **FlyRank AI**
+- 💼Machine Learning Engineer Intern at *FlyRank AI*
 - 🚀 Learning Spring Boot, FastAPI, Docker & Cloud
 - 🤖 Building AI & Backend Projects
 - 🌱 Exploring System Design & Microservices
