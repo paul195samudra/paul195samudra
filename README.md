@@ -42,7 +42,7 @@ Git • GitHub • Docker • Postman • VS Code • Linux • Firebase
 - 🚀 Learning Spring Boot, FastAPI, Docker & Cloud
 - 🤖 Building AI & Backend Projects
 - 🌱 Exploring System Design & Microservices
-- 💼 Open to Software Engineer, AI Engineer , Machine Learning Engineer & Project coordination roles
+- 💼 Open to Software Engineer, AI Engineer & Project coordination roles
 
 ---
 
