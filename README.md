@@ -52,7 +52,7 @@ Git • GitHub • Docker • Postman • VS Code • Linux • Firebase
 
 
 
-## 📫 Contact
+## 📫 Connect with me
 
 📧 samudrapaul80455@gmail.com
 
