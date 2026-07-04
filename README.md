@@ -1,4 +1,4 @@
-<h1 align="center">Samudra Paul</h1>
+<h1 align="center">Maloy Kishor Paul</h1>
 
 <h3 align="center">
 Software Engineer • AI Enthusiast 
