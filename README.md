@@ -59,7 +59,7 @@ Git • GitHub • Docker • Postman • VS Code • Linux • Firebase
 
 🔗 LinkedIn: [https://linkedin.com/in/(https://www.linkedin.com/in/maloy-kishor-paul-a32a20235)](https://www.linkedin.com/in/maloy-kishor-paul-a32a20235/)
 
-🌐 Portfolio: https://(https://maloykishorpaul-portfolio.lovable.app/)
+🌐 Portfolio: https://maloykishorpaul-portfolio.lovable.app
 
 ---
 
