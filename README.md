@@ -5,7 +5,7 @@ Software Engineer • AI Enthusiast
 </h3>
 
 <p align="center">
-I'm a Computer Science graduate from Daffodil International University, specializing in software engineering, AI/ML, and data systems. I'm currently interning as a Machine Learning Engineer at FlyRank AI.
+I'm a Computer Science graduate from Daffodil International University, specializing in software engineering, AI/ML, and data systems. I'm currently interning as a  Machine Learning Engineer at FlyRank AI and the IT Division at AB Bank PLC (Head Office, Motijheel, Dhaka, Bangladesh).
 
 I work across the stack — from full-stack PHP/MySQL platforms, to Python tooling for healthcare workflows, to NLP-driven products. I believe in building things that are practical, smart, and useful. 
 
@@ -39,6 +39,7 @@ Git • GitHub • Docker • Postman • VS Code • Linux • Firebase
 ## 🎯 Currently
 
 - 💼Machine Learning Engineer Intern at *FlyRank AI*
+- 💼Intern, IT  Division  at *AB Bank PLC*
 - 🚀 Learning Spring Boot, FastAPI, Docker & Cloud
 - 🤖 Building AI & Backend Projects
 - 🌱 Exploring System Design & Microservices
